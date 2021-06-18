@@ -1,0 +1,44 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  font-size: 62.5%; }
+
+body {
+  align-items: center;
+  background: linear-gradient(to top left, #28b487, #7dd56f);
+  height: 100vh;
+  font-family: sans-serif; }
+
+h1 {
+  font-size: 5rem;
+  line-height: 1.3;
+  width: 100%;
+  padding: 30px;
+  text-align: center;
+  color: white; }
+
+ul {
+  display: block;
+  margin-left: 3rem; }
+  ul li {
+    font-size: 2rem; }
+    ul li code,
+    ul li em {
+      font-size: 2rem;
+      font-weight: bold; }
+
+div.notes {
+  margin: 0 auto;
+  width: 50vw;
+  border: 1px solid yellow;
+  background: white;
+  color: #777;
+  padding: 1rem;
+  font-size: 2rem;
+  opacity: 0.7; }
+  div.notes p {
+    font-size: 2rem;
+    line-height: 2.6rem; }
+/*# sourceMappingURL=main.min.css.map */
