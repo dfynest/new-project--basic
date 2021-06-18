@@ -1,0 +1,19 @@
+{
+  "name": "new-project--basic",
+  "version": "1.0.0",
+  "description": "Basic Project Template (HTML/PHP/JS/SCSS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfynest/new-project--basic.git"
+  },
+  "author": "Sandis Timma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfynest/new-project--basic/issues"
+  },
+  "homepage": "https://github.com/dfynest/new-project--basic#readme"
+}
