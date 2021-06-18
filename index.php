@@ -16,7 +16,7 @@
         <p>Starting a new project:</p>
         <ul>
             <li>Make new project directory <code>mkdir "new-project"</code></li>
-            <li>Run <code>git clone dfynest/new-project--basic</code> to copy template from github</li>
+            <li>Run <code>git clone https://github.com/dfynest/new-project--basic</code> to copy template from github</li>
             <li>Run <code>npm status</code> to check if npm installed</li>
             <li>Run <code>npm install</code> to install all packages from <em>packages.json</em> file</li>
             <li>Edit <code>gulpfile.js</code> and change virtual host record (eg git.localhost)</li>
